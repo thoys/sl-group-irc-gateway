@@ -1,0 +1,7 @@
+bin\Debug\LibslGroupToIrcBot.exe
+bin\Debug\LibslGroupToIrcBot.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\LibslGroupToIrcBot.exe
+obj\Debug\LibslGroupToIrcBot.pdb
+bin\Debug\libsecondlife.dll
+bin\Debug\libsecondlife.pdb
