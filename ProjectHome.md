@@ -1,0 +1,1 @@
+Connects Secondlife Group Chat To IRC with A Libsecondlife Bot. This allows for communication to be bidirectional and extending both IRC and SL. Currently an example is running in the libsecondlife group on Second Life as well as the #libsl-group irc chat channel on EFNet. This application is written using C# and could become mono compatible.
